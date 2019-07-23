@@ -1,7 +1,5 @@
 # Hugo template for Netlify CMS with Netlify Identity
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d37df6ce-1b50-42ee-bb2b-eacbf189a461/deploy-status)](https://app.netlify.com/sites/test-hugo-site1/deploys)
-
-[https://test-hugo-site1.netlify.com](https://test-hugo-site1.netlify.com)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d37df6ce-1b50-42ee-bb2b-eacbf189a461/deploy-status)](https://app.netlify.com/sites/test-hugo-site1/deploys)  [https://test-hugo-site1.netlify.com](https://test-hugo-site1.netlify.com)
 
 This is a small business template built with [Victor Hugo](https://github.com/netlify/victor-hugo) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](http://www.darindimitroff.com/), [spacefarm.digital](https://www.spacefarm.digital).
 
